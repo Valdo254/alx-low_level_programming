@@ -1,6 +1,6 @@
 # 0x04. C - More functions, more nested loops
 
-This repository contains my solutions to the "0x04. C - More functions, more nested loops" project of the Low-level programming & Algorithm curriculum at [ALX](https://intranet.alxswe.com/)
+This repository contains my solutions to the "0x04. C - More functions, more nested loops" project of the Low-level programming & Algorithm curriculum at [ALX](https://www.alxafrica.com/)
 ## Requirements
 
 * All programs were compiled on Ubuntu 20.04 LTS using `gcc` with flags `-Wall -Werror -Wextra -pedantic` and `-std=gnu89` version 5.5.0.
