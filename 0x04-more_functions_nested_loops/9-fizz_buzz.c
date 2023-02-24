@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * main - Fizz Buzz code
@@ -30,11 +30,11 @@ int main(void)
 		}
 		if (i != 100)
 		{
-			putchar(' ');
+			printf(' ');
 		}
 
 		i++;
 	}
-	putchar('\n');
+	printf('\n');
 	return (0);
 }
